@@ -1,4 +1,4 @@
-# Advanced Portfolio Risk Analyzer
+# Multi-Asset Portfolio Risk Engine
 
 This project is a middle-office quantitative risk tool built with Python, `yfinance`, and `NumPy` to evaluate downside exposure and risk-adjusted returns for equity portfolios.
 
