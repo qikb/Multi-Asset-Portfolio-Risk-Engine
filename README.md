@@ -1,6 +1,6 @@
 # Multi-Asset Portfolio Risk Engine
 
-*A class project by a finance student learning how the "middle office" actually measures risk.*
+*A project by a finance student learning how the "middle office" actually measures risk.*
 
 ## What is this project? (the short version)
 
